@@ -1,0 +1,2 @@
+# Tags: latest-s390x
+FROM gcr.io/distroless/base-debian11:latest-s390x
